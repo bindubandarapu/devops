@@ -1,0 +1,7 @@
+pwd =present working directory
+cd =change directory
+touch filename
+mkdir file name
+ls =list of files
+ls -ll =list of all files
+ls - a =list of all hidden files
